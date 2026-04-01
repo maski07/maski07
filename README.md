@@ -1,3 +1,6 @@
+
+![Metrics](github-metrics.svg)
+
 ## OSS Contributions
 
 - vscode
